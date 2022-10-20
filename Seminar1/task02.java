@@ -17,7 +17,8 @@ public class task02 {
                 rez = false;
                 break;
             }
-        } 
+        }
+        
         return rez;
     }
 }

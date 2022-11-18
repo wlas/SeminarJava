@@ -36,5 +36,25 @@ public class NetBook {
                 + ", serialNumber=" + serialNumber + "]";
     }
 
+    public String getModel() {
+        return model;
+    }
+
+    public String getCpu() {
+        return cpu;
+    }
+
+    public Integer getMemory() {
+        return memory;
+    }
+
+    public double getDisplay() {
+        return display;
+    }
+
+    public Integer getSerialNumber() {
+        return serialNumber;
+    }
+
     
 }
